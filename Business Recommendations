@@ -1,0 +1,242 @@
+
+## Supply Chain Analytics Project
+
+---
+
+# Executive Summary
+
+Based on the analysis of sales performance, customer behavior, product profitability, market trends, and shipping operations, several strategic opportunities have been identified to improve operational efficiency, customer satisfaction, and long-term profitability. The recommendations outlined in this report are data-driven and aligned with the findings from the Power BI dashboards.
+
+---
+
+# Recommendation 1: Strengthen High-Performing Markets
+
+## Business Observation
+
+Europe generated the highest business performance with **$10.87 million** in sales and **$1.17 million** in profit, making it the organization's most valuable market.
+
+## Recommendation
+
+The company should continue prioritizing investments in Europe by:
+
+* Expanding marketing campaigns.
+* Increasing inventory availability for high-demand products.
+* Strengthening customer loyalty initiatives.
+* Improving regional distribution capabilities.
+
+## Expected Business Impact
+
+* Increased market share.
+* Higher customer retention.
+* Sustainable revenue growth.
+
+---
+
+# Recommendation 2: Expand Business Presence in LATAM
+
+## Business Observation
+
+LATAM generated **$10.28 million** in sales and **$1.12 million** in profit, demonstrating strong commercial performance.
+
+However, the dataset contains records only for Quarter 1 and Quarter 2, limiting complete annual trend analysis.
+
+## Recommendation
+
+* Expand regional marketing initiatives.
+* Improve product availability across LATAM.
+* Enhance sales forecasting once complete yearly data becomes available.
+* Ensure consistent quarterly data collection for future analysis.
+
+## Expected Business Impact
+
+* Improved market penetration.
+* Better forecasting accuracy.
+* Increased regional profitability.
+
+---
+
+# Recommendation 3: Optimize Product Portfolio
+
+## Business Observation
+
+The following categories contributed the highest revenue:
+
+* Fishing
+* Cleats
+* Camping & Hiking
+
+These categories represent the company's strongest product segments.
+
+## Recommendation
+
+* Maintain sufficient inventory levels for high-performing categories.
+* Prioritize these products in promotional campaigns.
+* Continuously evaluate product demand to prevent stock shortages.
+
+## Expected Business Impact
+
+* Higher sales volume.
+* Reduced stockouts.
+* Improved customer satisfaction.
+
+---
+
+# Recommendation 4: Promote Best-Selling Products
+
+## Business Observation
+
+**Field & Stream Sportsman 16 Gun Fire Safe** generated approximately **$1.93 million** in sales, making it the highest-selling product.
+
+## Recommendation
+
+* Increase visibility through targeted marketing.
+* Ensure continuous stock availability.
+* Bundle with complementary products to increase average basket size.
+* Monitor inventory levels during peak demand periods.
+
+## Expected Business Impact
+
+* Increased revenue.
+* Higher average order value.
+* Improved product profitability.
+
+---
+
+# Recommendation 5: Improve Shipping Performance
+
+## Business Observation
+
+Approximately **36,000 orders** experienced late delivery, resulting in a **54.82% late delivery rate**.
+
+This represents the most significant operational challenge identified during the analysis.
+
+## Recommendation
+
+* Investigate the root causes of delivery delays.
+* Optimize warehouse processing times.
+* Improve coordination with logistics partners.
+* Implement shipment tracking and performance monitoring.
+* Establish delivery performance KPIs for continuous improvement.
+
+## Expected Business Impact
+
+* Reduced delivery delays.
+* Improved customer satisfaction.
+* Increased customer retention.
+* Lower operational costs associated with delayed shipments.
+
+---
+
+# Recommendation 6: Optimize Standard Class Shipping
+
+## Business Observation
+
+Standard Class generated **$22.02 million** in sales and **$2.37 million** in profit, making it the most widely used shipping mode.
+
+## Recommendation
+
+* Maintain operational efficiency for Standard Class.
+* Improve delivery reliability without increasing logistics costs.
+* Periodically review carrier performance and delivery times.
+
+## Expected Business Impact
+
+* Higher delivery reliability.
+* Better customer experience.
+* Increased operational efficiency.
+
+---
+
+# Recommendation 7: Strengthen Customer Retention
+
+## Business Observation
+
+More than **21,000 customers** contributed to total sales. The highest-value customer, **Betty (Customer ID: 2641)**, generated **$9,130.92** in sales across **11 orders**.
+
+## Recommendation
+
+* Develop customer loyalty programs.
+* Offer personalized promotions to repeat customers.
+* Reward high-value customers with exclusive benefits.
+* Use customer segmentation to improve marketing effectiveness.
+
+## Expected Business Impact
+
+* Increased repeat purchases.
+* Higher customer lifetime value.
+* Improved customer loyalty.
+
+---
+
+# Recommendation 8: Improve Demand Forecasting
+
+## Business Observation
+
+European sales reached their highest level during **Quarter 3**, indicating seasonal demand.
+
+## Recommendation
+
+* Increase inventory before peak seasons.
+* Align procurement and warehouse planning with historical demand patterns.
+* Use sales trends to improve forecasting accuracy.
+
+## Expected Business Impact
+
+* Reduced inventory shortages.
+* Lower holding costs.
+* Improved order fulfillment.
+
+---
+
+# Recommendation 9: Enhance Data Quality and Reporting
+
+## Business Observation
+
+The analysis identified two important data limitations:
+
+* The dataset contains only **January 2018** records.
+* LATAM contains transaction data only for **Quarter 1** and **Quarter 2**.
+
+## Recommendation
+
+* Implement data validation procedures during data collection.
+* Ensure complete quarterly and yearly reporting across all markets.
+* Establish regular data quality audits to improve reporting accuracy.
+
+## Expected Business Impact
+
+* Improved analytical accuracy.
+* Better business forecasting.
+* More reliable strategic decision-making.
+
+---
+
+# Recommendation 10: Promote Data-Driven Decision Making
+
+## Business Observation
+
+The Power BI dashboards provide a centralized view of sales, profitability, customer behavior, product performance, and logistics performance.
+
+## Recommendation
+
+Management should use these dashboards as part of regular business reviews to:
+
+* Monitor key performance indicators.
+* Identify emerging sales trends.
+* Evaluate operational performance.
+* Support strategic planning with real-time insights.
+
+## Expected Business Impact
+
+* Faster decision-making.
+* Increased operational transparency.
+* Improved strategic planning.
+* Enhanced overall business performance.
+
+---
+
+# Conclusion
+
+The Supply Chain Analytics project demonstrates the value of integrating SQL-based data engineering with Power BI business intelligence to support strategic decision-making. The recommendations presented in this report address opportunities to improve market performance, optimize inventory, enhance customer retention, strengthen logistics operations, and improve data quality.
+
+Implementing these recommendations will help the organization reduce operational inefficiencies, improve customer satisfaction, and support sustainable long-term business growth through data-driven decision-making.
