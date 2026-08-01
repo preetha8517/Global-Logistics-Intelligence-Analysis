@@ -1,0 +1,168 @@
+
+
+## Supply Chain Analytics Project
+
+---
+
+# Executive Summary
+
+This report presents the key business insights derived from the Supply Chain Analytics project developed using PostgreSQL and Power BI. The analysis focuses on sales performance, profitability, customer purchasing behavior, product performance, market trends, and shipping efficiency. By transforming raw transactional data into an analytical model using a Star Schema and interactive dashboards, the project enables data-driven decision-making across multiple business functions.
+
+---
+
+# Project Objective
+
+The objective of this analysis is to evaluate business performance by examining key performance indicators (KPIs), identifying high-performing markets and products, analysing customer purchasing patterns, and assessing logistics performance. The findings provide actionable insights to support strategic planning, operational improvements, and business growth.
+
+---
+
+# Key Performance Indicators
+
+Total Sales = $36.78 Million
+Total Profit = $3.97 Million
+Total Orders = 65,752
+Total Customers = 21,000+
+Total Quantity Sold = 384,000 Units
+Average Order Value (AOV) = $559.42
+Late Delivery Orders = 36,000
+Late Delivery Rate = 54.82%
+
+These KPIs provide an overall snapshot of the organization's commercial performance and operational efficiency.
+
+---
+
+# Market Performance Analysis
+
+## Europe
+
+Europe emerged as the highest-performing market throughout the analysis period.
+
+**Performance**
+
+* Sales: **$10.87 Million**
+* Profit: **$1.17 Million**
+
+The region consistently generated the highest revenue and profitability, indicating a strong customer base and stable demand. Europe should continue to be treated as a strategic market for revenue growth and customer retention initiatives.
+
+---
+
+## LATAM
+
+LATAM recorded the second-highest business performance.
+
+**Performance**
+
+* Sales: **$10.28 Million**
+* Profit: **$1.12 Million**
+
+Although LATAM demonstrated strong financial performance, quarterly analysis revealed that the dataset contains records only for Quarter 1 and Quarter 2. No transactional data is available for Quarter 3 and Quarter 4. Consequently, seasonal trend analysis for LATAM cannot be completed, and annual comparisons should be interpreted cautiously.
+
+---
+
+# Product Performance Analysis
+
+Product category analysis identified clear revenue categories within the business.
+
+ Category          Sales   Profit   
+ Fishing           $6.93M  $756.22K 
+ Cleats            $4.43M  $494.60K 
+ Camping & Hiking  $4.12M  $427.46K 
+
+The Fishing category contributed the highest revenue and profitability, highlighting its importance within the product portfolio. Outdoor and sporting categories collectively generated a significant proportion of total sales, suggesting sustained customer demand in these segments.
+
+---
+
+# Best Performing Product
+
+The highest-selling product identified during the analysis was:
+
+**Field & Stream Sportsman 16 Gun Fire Safe**
+
+**Sales Generated**
+
+**$1.93 Million**
+
+The strong performance of this product indicates high market demand and demonstrates its strategic importance within the product portfolio.
+
+---
+
+# Customer Analysis
+
+Customer analysis revealed that purchasing activity is distributed across more than **21,000 customers**, demonstrating a broad customer base.
+
+The highest-value customer identified was:
+
+| Customer      | Value     |
+| ------------- | --------- |
+| Customer Name | Betty     |
+| Customer ID   | 2641      |
+| Orders        | 11        |
+| Sales         | $9,130.92 |
+| Profit        | $2,441    |
+
+Although individual customer contribution is relatively small compared to total organizational revenue, retaining high-value customers remains essential for long-term profitability and customer lifetime value.
+
+---
+
+# Sales Trend Analysis
+
+Year-over-year sales performance demonstrates relatively stable business growth.
+
+| Year | Sales   |
+| ---- | ------- |
+| 2015 | $12.34M |
+| 2016 | $12.30M |
+| 2017 | $11.81M |
+| 2018 | $3.31M* |
+
+*The 2018 dataset contains only January transactions. Therefore, annual comparisons involving 2018 should not be interpreted as a decline in business performance.
+
+European quarterly analysis indicates that revenue peaked during **Quarter 3**, suggesting seasonal demand patterns that should be considered during inventory planning and resource allocation.
+
+---
+
+# Shipping Performance Analysis
+
+Shipping analysis identified Standard Class as the dominant delivery method.
+
+| Shipping Mode  | Sales   | Profit |
+| -------------- | ------- | ------ |
+| Standard Class | $22.02M | $2.37M |
+
+Despite its commercial importance, delivery performance requires improvement.
+
+* Late Delivery Orders: **36,000**
+* Late Delivery Rate: **54.82%**
+
+A late delivery rate exceeding half of all completed orders represents a significant operational challenge and may negatively influence customer satisfaction and repeat purchasing behavior.
+
+---
+
+# Key Findings
+
+The analysis identified several important business findings:
+
+* Europe is the organization's strongest market in terms of both sales and profitability.
+* LATAM demonstrates excellent commercial performance; however, missing quarterly data limits complete trend analysis.
+* Fishing is the highest-performing product category, followed by Cleats and Camping & Hiking.
+* The Field & Stream Sportsman 16 Gun Fire Safe is the best-selling individual product.
+* Standard Class is the primary shipping method and contributes the highest revenue.
+* Customer spending remains healthy, with an average order value of $559.42.
+* Delivery performance requires immediate operational attention due to a late delivery rate of 54.82%.
+
+---
+
+# Data Limitations
+
+Several limitations were identified during the analytical process:
+
+* The dataset contains only January data for 2018.
+* LATAM contains transaction records only for Quarter 1 and Quarter 2.
+
+---
+
+# Conclusion
+
+The Supply Chain Analytics project demonstrates how structured data modelling, SQL-based data transformation, and Power BI visualization can support strategic business decision-making.
+
+The organization exhibits strong sales performance, profitable product categories, and healthy customer purchasing behaviour. However, shipping efficiency remains a significant opportunity for operational improvement. Addressing delivery delays while continuing to invest in high-performing markets and products will support sustainable business growth and improved customer satisfaction.
